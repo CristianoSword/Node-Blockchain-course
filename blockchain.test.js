@@ -16,7 +16,7 @@ describe ('Blockchain', () => {
         const data = 'arquivo.pdf';
         bc.addBlock(data);
 
-        expect(bc.chain[bc.chain.length-1]).data).toEqual(data);
+        expect(bc.chain[bc.chain.length-1]).(data).toEqual(data);
     });
 }); 
 
