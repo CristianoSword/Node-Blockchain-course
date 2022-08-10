@@ -1,3 +1,5 @@
+const SHA256 = require('crypto-js/sha256');
+
 class Block {
 
     constructor(timestamp, lasthash, hash, data) {
@@ -27,6 +29,11 @@ class Block {
 
         return new this (timestamp, lastHash, hash, data);
     }
+
+    static hash (timestamp, lastHash, data) {
+        return SHA256(`${timestamp}${lastHash}${data}`).toString();
+    }
+    // SHA - 256
 }
 
 module.exports = Block;
