@@ -15,7 +15,7 @@ class Block {
                 lastHash = ${this.lasthash.substring(0,10)}
                 hash = ${this.hash.substring(0,10)}
                 data = ${this.data}`;
-    }
+    } 
 
     static genesis() {
         
