@@ -2,7 +2,7 @@
  
 Uma Blockchain simples do zero com JavaScript e nodejs
 
-# Lista de Tarefas:
+## Lista de Tarefas:
 
 - [x] Criando o primeiro Bloco, bloco genesis e mineblock.
 - [x] Criando Hash SHA-256 e testando com JEST.
@@ -15,7 +15,7 @@ Uma Blockchain simples do zero com JavaScript e nodejs
 - [ ]
 - [ ]
 
-Observações:
+##Observações:
 --
 
 
