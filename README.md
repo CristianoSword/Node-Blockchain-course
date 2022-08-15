@@ -1,6 +1,6 @@
 ﻿# Node-Blockchain-course
  
-Uma Blockchain simples do zero com JavaScript e nodejs
+Uma Blockchain simples do zero com JavaScript e nodejs.
 
 ## Lista de Tarefas:
 
@@ -9,13 +9,13 @@ Uma Blockchain simples do zero com JavaScript e nodejs
 - [x] Teste Classe Blockchain. 
 - [ ] Criar uma API ao redor da Blockchain, e testar no Postman.
 - [ ] Atualizar BLockchain no servidor
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Protocolo de Trabalho na Blockchain
+- [ ] Criar uma Carteira (Wallet)
+- [ ] Criar um objeto de transação
+- [ ] Collect na Pool da Transação
+- [ ] Contratos inteligentes na rede Ethereum com Solidity
 
-##Observações:
+## Observações:
 --
 
 
