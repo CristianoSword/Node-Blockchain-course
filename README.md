@@ -8,7 +8,7 @@ Uma Blockchain simples do zero com JavaScript e nodejs.
 - [x] Criando Hash SHA-256 e testando com JEST.
 - [x] Teste Classe Blockchain. 
 - [ ] Criar uma API ao redor da Blockchain, e testar no Postman.
-- [ ] Atualizar BLockchain no servidor
+- [ ] Atualizar Blockchain no servidor
 - [ ] Protocolo de Trabalho na Blockchain
 - [ ] Criar uma Carteira (Wallet)
 - [ ] Criar um objeto de transação
