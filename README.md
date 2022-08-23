@@ -1,6 +1,6 @@
 ﻿# Node-Blockchain-course
  
-Uma Blockchain simples do zero com JavaScript e nodejs.
+Uma Blockchain simples do zero com JavaScript e nodejs
 
 ## Lista de Tarefas:
 
