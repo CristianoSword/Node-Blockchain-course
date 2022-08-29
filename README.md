@@ -12,7 +12,7 @@ Uma Blockchain simples do zero com JavaScript e nodejs
 - [ ] Protocolo de Trabalho na Blockchain
 - [ ] Criar uma Carteira (Wallet)
 - [ ] Criar um objeto de transação
-- [ ] Collect na Pool da Transação
+- [ ] Collect na Pool da Transação 
 - [ ] Contratos inteligentes na rede Ethereum com Solidity
 
 ## Observações:
