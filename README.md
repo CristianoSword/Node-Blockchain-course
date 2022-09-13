@@ -1,4 +1,4 @@
-﻿# Node-Blockchain-course
+﻿# Node-Blockchain-nodejs
  
 Uma Blockchain simples do zero com JavaScript e nodejs
 
